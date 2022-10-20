@@ -48,5 +48,18 @@ ______________________________________
 Если для ответа на эти вопросы недостаточно информации, то напишите какие моменты уточните на совещании.<br>
 ___________________________________
 
-# Установка терраформ.
+# Задача 2.Установка терраформ.
+
+Официальный сайт: https://www.terraform.io/
+
+Установите терраформ при помощи менеджера пакетов используемого в вашей операционной системе. В виде результата этой задачи приложите вывод команды terraform --version.<br>
+```
+➜  ~ terraform -version
+Terraform v1.2.8
+on linux_amd64
+
+Your version of Terraform is out of date! The latest version
+is 1.3.3. You can update by downloading from https://www.terraform.io/downloads.html
+```
  
+
